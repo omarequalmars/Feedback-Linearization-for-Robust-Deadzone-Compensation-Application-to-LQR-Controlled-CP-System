@@ -44,4 +44,4 @@ MIT License
 
 ## Contact Information
 
-You can contact me at 2300009@eng.asu.edu.eg
+You can contact me at 2300009@eng.asu.edu.eg or through my personal email linked to my Github account 2000rabieomar@gmail.com
